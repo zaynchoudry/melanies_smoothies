@@ -2,3 +2,4 @@
 requests
 snowflake-snowpark-python
 streamlit
+pandas
